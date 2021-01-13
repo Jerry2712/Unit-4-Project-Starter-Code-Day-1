@@ -1,0 +1,87 @@
+h1 {
+    color: #E86F68;
+}
+
+
+h2 {
+    color: #272D67;
+}
+
+img {
+    width: 200px;
+}
+
+.all {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+color: blue;
+}
+
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+
+.container {
+    display: flex;
+    Justify-content: center;
+}
+
+
+.buttons {
+    border-top: 2px solid #777777;
+    border-right: 2px solid #333333;
+    border-bottom: 2px solid #444444;
+    border-left: 2px #777777;
+    margin: 5px;
+    padding: 2px 0;
+    background: #555555;
+    color: white;
+}
+
+.info {
+    border: 5px solid #66CDAA;
+    margin: 10px;
+    padding: 5px;
+
+}
+
+.stuff {
+    border: 5px solid #66CDAA;
+    margin: 10px;
+    padding: 5px;
+}
+
+.albums {
+    border: 5px solid #66CDAA;
+    margin: 10px;
+    padding: 5px;
+}
+
+.intro {
+    color: #dd9bc6;
+}
+
+.collab {
+    color: #c1cbf9;
+}
+
+.songs {
+    color: #F6D13A;
+}
+
+
+
+body {
+    background-color: #458B74;
+    border: 10px solid #66CDAA;
+    border-style: ridge;
+    padding-left: 400px;
+    padding-right: 400px;
+}
